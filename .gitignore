@@ -1,0 +1,6 @@
+*.iml
+target
+.idea
+bckp
+out
+/src/edu/examples/
